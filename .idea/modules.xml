@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/MLhw1/.idea/MLhw1.iml" filepath="$USER_HOME$/DataspellProjects/MLhw1/.idea/MLhw1.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/Major1_ML/.idea/Major1_ML.iml" filepath="$USER_HOME$/DataspellProjects/Major1_ML/.idea/Major1_ML.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/majorHW1/.idea/majorHW1.iml" filepath="$USER_HOME$/DataspellProjects/majorHW1/.idea/majorHW1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
     </modules>

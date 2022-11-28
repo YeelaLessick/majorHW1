@@ -4,5 +4,7 @@
     <orderEntry type="jdk" jdkName="Python 3.8 (base)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="majorHW1" />
+    <orderEntry type="module" module-name="MLhw1" />
+    <orderEntry type="module" module-name="Major1_ML" />
   </component>
 </module>
